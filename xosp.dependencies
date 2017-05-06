@@ -1,0 +1,13 @@
+[
+ {
+   "repository": "XOSP-Devices/android_kernel_huawei_angler",
+   "target_path": "kernel/huawei/angler",
+   "remote": "XOSPD"
+  },
+  {
+    "repository": "TheMuppets/proprietary_vendor_huawei",
+    "target_path": "vendor/huawei"
+    "remote": "XOSPD"
+  }
+]
+
